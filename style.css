@@ -14,19 +14,6 @@
   color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --ink: #e8e5de;
-    --muted: #a7a298;
-    --rule: #34322d;
-    --accent: #a5a0ff;
-    --accent-soft: rgba(165, 160, 255, 0.16);
-    --bg: #171614;
-    --card: #1f1e1b;
-    color-scheme: dark;
-  }
-}
-
 * { box-sizing: border-box; }
 
 html { -webkit-text-size-adjust: 100%; }
